@@ -1,0 +1,55 @@
+body{
+    background-color: lighgrey;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1{
+    font-size: large;
+    font-weight: bold;
+}
+ul1{
+    padding-left: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    font-size: large;
+    list-style-image: url("/img/checked_16.png");
+}
+ul2{
+    padding-bottom: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: large;
+    list-style-image: url("/img/checked_16.png");
+}
+ul3{
+    padding-bottom: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: large;
+    list-style-image: url(/img/checked_16.png);
+}
+ul6{
+    background-color:#a5ccdb;
+    font-size: large;
+    list-style-image: url(/img/unchecked_16.png);
+}
+ul5{
+    text-align: end;
+    list-style-image: url(/img/arrow_16.png);
+}
+ul{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color:#a5ccdb;
+    font-size: large;
+    list-style-image: url(/img/unchecked_16.png);
+}
+.list1{
+    font-size: large;
+    list-style-image: url("/img/arrow_16.png");
+}
+
+p1{
+    background-color: #a5ccdb;
+}
